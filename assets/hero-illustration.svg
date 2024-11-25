@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background gradient -->
+    <defs>
+        <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="600" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6C63FF" stop-opacity="0.1"/>
+            <stop offset="1" stop-color="#FF6B6B" stop-opacity="0.1"/>
+        </linearGradient>
+    </defs>
+    
+    <!-- Abstract shapes -->
+    <circle cx="400" cy="300" r="200" fill="#6C63FF" fill-opacity="0.1"/>
+    <circle cx="400" cy="300" r="150" fill="#FF6B6B" fill-opacity="0.1"/>
+    
+    <!-- Decorative elements -->
+    <path d="M300 250 Q400 150 500 250" stroke="#6C63FF" stroke-width="4" fill="none"/>
+    <path d="M300 350 Q400 450 500 350" stroke="#FF6B6B" stroke-width="4" fill="none"/>
+    
+    <!-- Abstract person silhouette -->
+    <path d="M380 200 Q400 180 420 200 L420 280 Q400 300 380 280 Z" fill="#6C63FF"/>
+    <circle cx="400" cy="170" r="25" fill="#6C63FF"/>
+</svg>
